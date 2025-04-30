@@ -1,1 +1,1 @@
-We are git and github today.
+We are learning git and github today.
